@@ -156,13 +156,6 @@ The **Streamlit dashboard** brings this project to life, offering an intuitive i
 
 ---
 
-## **Acknowledgements** 🙏
-
-- Inspired by astrophysical works of **Eddington**, **Hertzsprung**, and **Russell**.
-- Special thanks to open-source contributors and libraries like **Streamlit**, **Keras**, and **scikit-learn**.
-
----
-
 ## **Creator** 👨‍💻
 
 If you’re curious about the project or want to collaborate, feel free to connect:
