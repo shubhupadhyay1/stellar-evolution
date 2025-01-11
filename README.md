@@ -123,14 +123,14 @@ The **Streamlit dashboard** brings this project to life, offering an intuitive i
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-repo/astrosynth-evolution.git
-   cd astrosynth-evolution
+   git clone https://github.com/stellar-evolution.git
+   cd stellar-evolution
    ```
 
 2. **Set Up a Virtual Environment**
    ```bash
    python -m venv env
-   source env/bin/activate  # On Windows: env\Scripts\activate
+   source env/bin/activate  
    ```
 
 3. **Install Dependencies**
