@@ -6,6 +6,12 @@ This isn’t just a simulation; it’s a **stellar laboratory** where you can ex
 
 ---
 
+<p align="center">
+  <img src="assets/ss1.png" alt="SS1" width="100%" height="auto" />
+</p>
+
+---
+
 ## **Project Directory Structure** 📁
 
 ```bash
@@ -102,9 +108,6 @@ The **Streamlit dashboard** brings this project to life, offering an intuitive i
    - **Metallicity vs. Age**: Explores how chemical composition evolves with age.
 
 
-<p align="center">
-  <img src="assets/ss1.png" alt="SS1" width="100%" height="auto" />
-</p>
 
 <p align="center">
   <img src="assets/ss2.png" alt="SS2" width="100%" height="auto" />
