@@ -163,13 +163,18 @@ The **Streamlit dashboard** brings this project to life, offering an intuitive i
 
 ---
 
-## **License** 🔒
+## **Creator** 👨‍💻
 
-This project is licensed under the **MIT License**. Feel free to fork it, modify it, and explore the cosmos!
+If you’re curious about the project or want to collaborate, feel free to connect:
+
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhupadhyay1)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubh-upadhyay/)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/shubh_upadhyayy)
 
 ---
 
-## **Contribute** 🤝
+## **License** 📜
 
-Have ideas or suggestions? Open an issue or submit a pull request. Let’s build something stellar together!
+This project is licensed under the **MIT License**.
 
+---
